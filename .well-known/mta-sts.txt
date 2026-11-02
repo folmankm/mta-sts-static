@@ -1,4 +1,4 @@
-ersion: STSv1
+version: STSv1
 mode: enforce
 mx: mail.emporiumpluit.xyz
 max_age: 86400
